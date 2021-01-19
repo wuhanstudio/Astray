@@ -1,6 +1,12 @@
-# Astray
+# Maze 2.5D
 
-A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro.github.com/Astray/
+> A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro.github.com/Astray/
+
+
+
+![](./preview.png)
+
+
 
 ### Launching
 
